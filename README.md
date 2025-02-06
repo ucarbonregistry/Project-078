@@ -34,13 +34,13 @@ ISSUANCE DATE: 26/04/2022
 
 Crediting Period: 25/02/2014 to 31/12/2021
 
-QTY: 45,256 CoUs
+Total Issued Qty: 45,256 CoUs
 __________
 Serial ID: 0001-000001-006252-UCR-CoU-IN-078-25022014-31122014
 
 Vintage: 2014
 
-Total Issued Qty: 6,252
+Qty: 6,252
 __________
 Serial ID: 0001-006253-013395-UCR-CoU-IN-078-01012015-31122015
 
