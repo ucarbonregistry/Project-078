@@ -27,31 +27,34 @@ Vintage: 2016
 
 QTty: 3,928
 ___________
-Serial ID: 0001-040578-042840-UCR-CoU-IN-078-01012021-31122021
+Serial ID: 0001-017324-022995-UCR-CoU-IN-078-01012017-31122017
 
-Vintage: __ 2017_____________ Metric Tons CO2e: 5,672
+Vintage: 2017
 
-Beginning (DD/MM/YY): 01/01/2017 End (DD/MM/YY): 31/12/2017
+Qty: 5,672
 ____________
-Serial ID: 0001-040578-042840-UCR-CoU-IN-078-01012021-31122021
+Serial ID: 0001-022996-028000-UCR-CoU-IN-078-01012018-31122018
 
-Vintage: __ 2018_____________ Metric Tons CO2e: 5,005
+Vintage: 2018
 
-Beginning (DD/MM/YY): 01/01/2018 End (DD/MM/YY): 31/12/2018
+Qty: 5,005
+_______________
+Serial ID: 0001-028001-034446-UCR-CoU-IN-078-01012019-31122019
+
+Vintage: 2019
+
+Qty: 6,446
 ____________
-Serial ID: 0001-040578-042840-UCR-CoU-IN-078-01012021-31122021
+Serial ID: 0001-034447-040577-UCR-CoU-IN-078-01012020-31122020
 
-Vintage: __ 2019_____________ Metric Tons CO2e: 6,446
+Vintage: 2020
 
-Beginning (DD/MM/YY): 01/01/2019 End (DD/MM/YY): 31/12/2019 
-_____________
-Serial ID: 0001-040578-042840-UCR-CoU-IN-078-01012021-31122021
+Qty: 6,131
+________________
+Serial ID: 0001-040578-045256-UCR-CoU-IN-078-01012021-31122021
 
-Vintage: ___2020_____________ Metric Tons CO2e: 6,131
+Vintage:2021
 
-Beginning (DD/MM/YY): 01/01/2020 End (DD/MM/YY): 31/12/2020 
+Qty: 4,679
 ____________
-
-Serial ID: 0001-040578-042840-UCR-CoU-IN-078-01012021-31122021
-Vintage: ___2021_____________ Metric Tons CO2e: 4,679
 
